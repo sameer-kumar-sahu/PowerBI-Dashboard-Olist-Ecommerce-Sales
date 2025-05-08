@@ -89,7 +89,6 @@ This section outlines the step-by-step process followed to complete the end-to-e
 
 Sameer Kumar Sahu
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/sameer-kumar-sahu)
 
 
 
