@@ -2,9 +2,11 @@
 
 ### Dataset Link :https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-## 🔍 Project Summary
+📊 Project Overview
 
-This Power BI dashboard helps a Brazilian e-commerce platform uncover key business insights across sales, product categories, payments and customer satisfaction. By analyzing sales trends, customer reviews, and fulfillment data, the company can identify top-performing areas and improvement opportunities. The report highlights issues like delayed deliveries and low customer satisfaction, enabling data-driven actions to enhance service quality and operational efficiency.
+This project is an end-to-end data analysis of the Brazilian e-commerce dataset (Olist), aiming to extract meaningful business insights using SQL and Power BI. The dataset contains customer order data including payments, product categories, seller info, customer reviews, and delivery performance.
+
+The final outcome is a multi-page interactive Power BI dashboard that presents deep insights into sales trends, product performance, seller analysis, and customer satisfaction.
 
 ## 📌 Problem Statement
 
