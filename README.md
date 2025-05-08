@@ -36,11 +36,12 @@ This section outlines the step-by-step process followed to complete the end-to-e
 - Used `JOIN` operations in SQL to merge relevant tables for analysis.
 - Created views or final tables that consolidate customer, order, product, payment, and review information.
   Snap of the query,
-- ![Image](https://github.com/user-attachments/assets/55056fe5-0979-4b6b-af3a-6b19c84ac8d3)
+ ![Image](https://github.com/user-attachments/assets/55056fe5-0979-4b6b-af3a-6b19c84ac8d3)
 
 ### 🔹 Step 3: Connecting MySQL to Power BI
 - Connected Power BI to the MySQL database.
 - After Load the data, open Power Query Editor and clean the merged data. Like verify all columns data types, fill the null values & created some new columns etc. Based on my problem statement and dashboard.
+![Image](https://github.com/user-attachments/assets/e798cf34-2c13-4275-b062-e8610cd6b269)
 - Imported the cleaned and joined data directly into Power BI for visualization.
 
 ### 🔹 Step 4: Building the Power BI Dashboard
@@ -51,5 +52,8 @@ This section outlines the step-by-step process followed to complete the end-to-e
   - **Customer Review & Satisfaction**
 - Used slicers and filters to make the dashboard interactive and dynamic.
 - Implemented KPIs, bar charts, pie charts, line charts, and tables for deep insights.
+
+### 🔹 DashBoard Images are,
+
 
 
