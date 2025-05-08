@@ -31,4 +31,9 @@ This section outlines the step-by-step process followed to complete the end-to-e
   - `order_payments`
   - `geolocation`
 
-<pre><code>```sql LOAD DATA LOCAL INFILE 'C:/Users/sameer kumar sahu/Desktop/MySQL_Datasets/Brazilian E-Commerce Public Dataset/olist_order_reviews_dataset.csv' INTO TABLE reviews FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS; ```</code></pre>
+### 🔹 Step 2: Data Integration Using SQL JOINs
+- Select important cloumns for my Dashboard.
+- Used `JOIN` operations in SQL to merge relevant tables for analysis.
+- Created views or final tables that consolidate customer, order, product, payment, and review information.
+
+
