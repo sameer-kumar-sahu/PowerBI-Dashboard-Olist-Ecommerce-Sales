@@ -16,9 +16,14 @@ This project aims to develop a Power BI dashboard using SQL for data preparation
 
 ## 📁 Tools Used
 
--SQL(MySQL Workbench): Data upload and query execution.
--Power BI Desktop: Data modeling and dashboard creation.
--GitHub: Project documentation and version control.
+- SQL(MySQL Workbench): Data upload and query execution.
+
+- Power BI Desktop: Data modeling and dashboard creation.
+
+- GitHub: Project documentation and version control.
+
+### 🎯 Goal:
+Deliver actionable insights for improving sales, customer experience, logistics, and marketing through deep data analysis.
 
 ## Project Workflow
 
@@ -80,7 +85,12 @@ This section outlines the step-by-step process followed to complete the end-to-e
 
 ![Image](https://github.com/user-attachments/assets/cba60ea4-1341-4ac2-a573-62ae9efdfe2a)
 
-### DashBoard Live
+### ✍️ Author
+
+Sameer Kumar Sahu
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/sameer-kumar-sahu)
+
 
 
 
