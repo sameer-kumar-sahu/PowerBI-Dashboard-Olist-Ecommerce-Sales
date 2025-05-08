@@ -54,6 +54,12 @@ This section outlines the step-by-step process followed to complete the end-to-e
 - Implemented KPIs, bar charts, pie charts, line charts, and tables for deep insights.
 
 ### 🔹 DashBoard Images are,
+![Image](https://github.com/user-attachments/assets/f064bd36-89f1-4cb0-881c-4f21da7b26d8)
+![Image](https://github.com/user-attachments/assets/0d670d75-a838-40f3-a4a2-e8a4a8143b3a)
+![Image](https://github.com/user-attachments/assets/749a31c2-8b70-42be-bd2d-efcf55bef3bd)
+![Image](https://github.com/user-attachments/assets/4ca7bddb-4a9a-481c-a6b5-2602ec19c6cc)
+![Image](https://github.com/user-attachments/assets/70da8c7f-0736-4fde-be5d-261331d9f119)
+![Image](https://github.com/user-attachments/assets/cba60ea4-1341-4ac2-a573-62ae9efdfe2a)
 
 
 
