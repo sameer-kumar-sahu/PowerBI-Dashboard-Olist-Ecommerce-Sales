@@ -14,6 +14,12 @@ The Brazilian e-commerce company is experiencing challenges in understanding cus
 
 This project aims to develop a Power BI dashboard using SQL for data preparation to help stakeholders make informed decisions, improve customer experience, and boost overall business efficiency.
 
+## 📁 Tools Used
+
+-SQL(MySQL Workbench): Data upload and query execution.
+-Power BI Desktop: Data modeling and dashboard creation.
+-GitHub: Project documentation and version control.
+
 ## Project Workflow
 
 This section outlines the step-by-step process followed to complete the end-to-end data analysis project using SQL and Power BI.
@@ -53,13 +59,30 @@ This section outlines the step-by-step process followed to complete the end-to-e
 - Used slicers and filters to make the dashboard interactive and dynamic.
 - Implemented KPIs, bar charts, pie charts, line charts, and tables for deep insights.
 
-### 🔹 DashBoard Images are,
+### 🔹 DashBoard Creation On Power BI
+- Page 1: Sales & Order Trends – Monthly trends, total orders, revenue, customer state-wise breakdown.
+
 ![Image](https://github.com/user-attachments/assets/f064bd36-89f1-4cb0-881c-4f21da7b26d8)
+
+- Page 2: Product & Category Analysis – Top categories/products by revenue and units sold, seller performance.
+
 ![Image](https://github.com/user-attachments/assets/0d670d75-a838-40f3-a4a2-e8a4a8143b3a)
+
+- Page 3: Customer & Profitability – Total Customers, Repet Customer, Net revenue.
+
 ![Image](https://github.com/user-attachments/assets/749a31c2-8b70-42be-bd2d-efcf55bef3bd)
+
+- Page 4: Reviews & Customer Satisfaction – Review score distribution, satisfaction trends, categories with low/high ratings.
+
 ![Image](https://github.com/user-attachments/assets/4ca7bddb-4a9a-481c-a6b5-2602ec19c6cc)
+
 ![Image](https://github.com/user-attachments/assets/70da8c7f-0736-4fde-be5d-261331d9f119)
+
 ![Image](https://github.com/user-attachments/assets/cba60ea4-1341-4ac2-a573-62ae9efdfe2a)
+
+### DashBoard Live
+
+
 
 
 
