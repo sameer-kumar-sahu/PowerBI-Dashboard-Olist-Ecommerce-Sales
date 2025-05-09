@@ -1,4 +1,4 @@
-# PowerBI-Dashboard-Olist-Ecommerce-Sales
+# PowerBI Dashboard Olist Ecommerce Sales
 
 ### Dataset Link :https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
