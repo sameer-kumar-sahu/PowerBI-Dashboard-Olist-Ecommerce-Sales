@@ -85,9 +85,9 @@ This section outlines the step-by-step process followed to complete the end-to-e
 
 ![Image](https://github.com/user-attachments/assets/cba60ea4-1341-4ac2-a573-62ae9efdfe2a)
 
-### ✍️ Author
+### ✍️ Author - Sameer Kumar Sahu
 
-Sameer Kumar Sahu
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
 
