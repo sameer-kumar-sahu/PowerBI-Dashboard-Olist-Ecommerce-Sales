@@ -8,6 +8,14 @@ This project is an end-to-end data analysis of the Brazilian e-commerce dataset 
 
 The final outcome is a multi-page interactive Power BI dashboard that presents deep insights into sales trends, product performance, seller analysis, and customer satisfaction.
 
+- Created advanced DAX measures to calculate dynamic KPIs such as Average Review Score, Revenue Growth %, and Customer Satisfaction Index.
+
+- Built self-service data model enabling business users to slice and dice data by product, date, and seller.
+
+- Troubleshooting: Resolved data inconsistencies by applying data cleaning and transformation using Power Query, ensuring accurate metrics.
+
+- Delivered scheduled refresh setup and documented all KPIs, filters, and business rules for stakeholder reference.
+
 ## 📌 Problem Statement
 
 The Brazilian e-commerce company is experiencing challenges in understanding customer satisfaction and sales trends across products, sellers, and regions. With large volumes of transaction, review, and delivery data, the company lacks a centralized and actionable view of business performance. There is a need to analyze sales patterns, identify top-performing categories and sellers, evaluate shipping delays, and uncover areas driving negative reviews.
